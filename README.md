@@ -1,0 +1,2 @@
+This repository is belong to the medium article below.
+https://medium.com/data-cafe-thailand/tutorial-deploy-machine-learning-model-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-python-fastapi-%E0%B8%9A%E0%B8%99-heroku-%E0%B9%81%E0%B8%9A%E0%B8%9A-step-by-step-563d35ec070c
